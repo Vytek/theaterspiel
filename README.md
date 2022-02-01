@@ -20,3 +20,4 @@ Modern porting of Theaterspiel Computer Aided WarGame
 - https://github.com/jftuga/geodist
 - https://github.com/tidwall/gjson
 - https://github.com/gocarina/gocsv
+- https://zetcode.com/golang/random/
