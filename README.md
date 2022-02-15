@@ -23,5 +23,6 @@ Modern porting of Theaterspiel Computer Aided WarGame
 - https://zetcode.com/golang/random/
 - https://github.com/diamondburned/solar
 - https://github.com/sixdouglas/suncalc
+- https://github.com/janczer/goMoonPhase
 - https://github.com/apsdehal/go-logger
 - https://github.com/sonyarouje/simdb
