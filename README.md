@@ -24,5 +24,6 @@ Modern porting of Theaterspiel Computer Aided WarGame
 - https://github.com/diamondburned/solar
 - https://github.com/sixdouglas/suncalc
 - https://github.com/janczer/goMoonPhase
+- https://github.com/sj14/astral
 - https://github.com/apsdehal/go-logger
 - https://github.com/sonyarouje/simdb
