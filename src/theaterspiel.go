@@ -12,7 +12,6 @@ import (
 const VERSION = "Version 0.2 Alfa"
 
 //https://go.dev/play/p/Q-Ufgrw3vZL
-
 func DDHHMMZ() string {
 	current_time := time.Now().UTC()
 	return fmt.Sprintf("%d%02d%02dZ\n", current_time.Day(), current_time.Hour(), current_time.Minute())
