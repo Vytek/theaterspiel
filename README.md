@@ -18,6 +18,7 @@ Modern porting of Theaterspiel Computer Aided WarGame
 - https://github.com/abiosoft/ishell
 - https://github.com/im7mortal/UTM
 - https://github.com/jftuga/geodist
+- https://github.com/kellydunn/golang-geo
 - https://github.com/tidwall/gjson
 - https://github.com/gocarina/gocsv
 - https://zetcode.com/golang/random/
