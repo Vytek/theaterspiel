@@ -29,3 +29,4 @@ Modern porting of Theaterspiel Computer Aided WarGame
 - https://github.com/apsdehal/go-logger
 - https://github.com/sonyarouje/simdb
 - https://github.com/kellydunn/golang-geo/pull/60
+- https://github.com/ichinaski/pxl
